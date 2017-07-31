@@ -1,7 +1,9 @@
 # BigRobot
+
 Software for new BigRobot 3kg
 
 HW PinOut
+
 Function|Arduino Pin|=|Arduino Pin|Device Pin|Function
 TX|D0||||
 RX|D1||||
