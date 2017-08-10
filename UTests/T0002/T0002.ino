@@ -1,4 +1,4 @@
-//BigRobot SW for competition
+//T0002 - Test
 
 // Pololu Github - https://github.com/pololu/dual-vnh5019-motor-shield/
 #include <DualVNH5019MotorShield.h>
